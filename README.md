@@ -13,7 +13,7 @@
 - ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
 - ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
 - ❌ Web-Fundamentals
-- ❌ Jr Penetration Tester
+- ✅ [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U95VGKBWS1.pdf)
 
 
 ## 🛠️ Навыки, которые я развиваю:
