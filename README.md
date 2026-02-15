@@ -7,8 +7,7 @@
 - Системность и дисциплина
 - Этичный взлом (Ethical Hacking)
 - CTF (Capture The Flag) практики
-- Работа с TryHackMe
-
+  
 ## 📜 Сертификаты:
 
 - ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
